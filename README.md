@@ -34,4 +34,4 @@ In [Task 8](Task8.py) topics covered are:
 Study about Exeption Handling in Python 
 
 
-*Several problems are solved based on these Topics in each Task *
+* Several problems are solved based on these Topics in each Task *
